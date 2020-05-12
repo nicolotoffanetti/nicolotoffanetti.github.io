@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Project
 
-You can use the [editor on GitHub](https://github.com/nicolotoffanetti/nicolotoffanetti.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can clone my project at this [link](https://github.com/nicolotoffanetti/exercise). A description of how to run it is provided inside the README.txt file in the main repository. 
+I set up a small tutorial about principal component analysis,the example is relatively scholastic. The program exploits a dataset which is imported from [here](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/). This dataset contains information about the characteristics of some plants (iris-versicolor, iris-setosa, iris-verginica), specifically sepal-length, sepal-width, petal-length and petal-width. The program will perfrom a principal component analysis decomposition in two dimension and then it will produce a graph, namely the scatter plot obtained as a result of the dimensional decomposition (scattet_plot.png).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I would like to mention that I am not a python developer, my professional background is definitely more oriented on c++. I used python aiming at avoiding problems for what concerns environmental compatibility (compiler version and etc.).
 
-### Markdown
+Enjoy!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nicolotoffanetti/nicolotoffanetti.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
